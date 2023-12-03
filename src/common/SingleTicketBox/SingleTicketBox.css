@@ -1,0 +1,10 @@
+.ticketEmphasize{
+    font-family: 'Oswald', Courier, monospace;
+    font-size: 15px
+}
+
+.ticketDetail{
+    color: gray;
+    font-size: 10px;
+    font-family: "Raleway", Courier, monospace;
+}

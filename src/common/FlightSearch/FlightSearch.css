@@ -1,0 +1,7 @@
+.tabClass .nav-link {
+    color: rgb(160, 160, 160) !important;
+  }
+
+.tabClass .nav-link.active {
+color: rgb(0, 0, 0) !important;
+}

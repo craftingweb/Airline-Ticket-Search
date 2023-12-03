@@ -1,0 +1,12 @@
+.homeHeroImg{
+  background-image: url('https://media.insureyonder.com/wp-content/uploads/2018/04/25202710/Travel.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 50vh;
+  color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+
+  box-shadow: inset 45vw 20px 100px -100px rgba(0, 0, 0, 0.4);
+}
